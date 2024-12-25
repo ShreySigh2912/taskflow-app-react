@@ -1,1 +1,1 @@
-// Updated content from taskboard-component artifact with TaskForm integration
+// Content from taskboard-component artifact
