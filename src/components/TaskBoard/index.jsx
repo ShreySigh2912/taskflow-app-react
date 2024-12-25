@@ -1,1 +1,1 @@
-// Content from taskboard-component artifact
+// Content from task-board artifact
